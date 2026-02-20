@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #ffffff;
+    color: #434455;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    color: #ffffff;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.button {
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.teamcard {
+    background-color: #FFFFFF;
+}
+
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+header .logo {
+    color: #2E2F42;
+}
+
+footer .logo a {
+    color: #F4F4FD;
+}
+
+.logo span {
+    color: #4D5AE5;
+}
+
+header address a {
+    color: #434455;
+}
+
+a {
+    text-decoration: none;
+}
